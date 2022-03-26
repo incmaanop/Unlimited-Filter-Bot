@@ -13,17 +13,17 @@
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
+  <a href="https://github.com/incmaanop/Unlimited-Filter-Bot/fork">
     <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![TroJanz](https://img.shields.io/badge/incmaanop-Channel-orange?style=for-the-badge&logo=telegram)](https://t.me/DarkRubix)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![TroJanz](https://img.shields.io/badge/incmaanop-Support-red?style=flat&logo=telegram)](https://t.me/DarkRubix)  [![MSB](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://t.me/moviessearch_box)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/incmaanop/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/incmaanop/Unlimited-Filter-Bot)
 
 
 ## An advanced Filter Bot with nearly unlimitted filters!
@@ -74,12 +74,12 @@
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
+[Click here to see tutorial video](https://t.me/DarkRubix)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [InfotelGroup](https://t.me/DarkRubix) and [Erich Daniken) for the video
 
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [TroJanzSupport](https://t.me/DarkRubix)
 
 
 ## Installation
@@ -89,7 +89,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
+git clone https://github.com/incmaanop/Unlimited-Filter-Bot
 cd Unlimited-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
